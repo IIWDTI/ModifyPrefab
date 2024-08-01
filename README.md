@@ -56,3 +56,11 @@ ESC – Brings up the tab menus and save.
 CTRL + Z – Undo.
 
 SHIFT + ALT + RIGHT MOUSE BUTTON – Advanced menu for trader blocks and terrain decals.
+
+DENSITY +1 - LEFT ARROW
+
+DENSITY -1 - RIGHT ARROW
+
+DENSITY +10 - DOWN ARROW
+
+DENSITY -10 - UP ARROW
