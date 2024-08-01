@@ -6,6 +6,8 @@ Brings back some of the Prefab Editor functions to 7 Days to die v1.0
 Simply place the folder from the archive in the Mods folder and run the game, depending on which mode of Prefab Editor you wanna use create or delete the "funkymode.txt" file.
 (If the funkymode.txt is there, the graphics looks "funky", and if the funkymode.txt is deleted the game remains normal, it is unknown what differences there is other then this)
 
+Remember to enable "debugmenu" in console for it to work.
+
 # How to use Prefab functions:
 Z – Place a section box, Use again to define the size. (Defining 2 opposing corners)
 
