@@ -7,8 +7,11 @@ Simply place the folder from the archive in the Mods folder and run the game, de
 
 # How to use Prefab functions
 Z – Place a section box, Use again to define the size. (Defining 2 opposing corners)
+
 SHIFT + Z - Place underground
+
 U – Creative Menu , You can get all your blocks here.
+
 X – Rotate a selection.
 G – Hold to move a selection, use WASD and C for down and space for up. You can also drag the arrows in the centre of the selection box.
 CTRL + C – Copy everything in a selection box.
