@@ -8,6 +8,8 @@ Simply place the folder from the archive in the Mods folder and run the game, de
 
 Remember to enable "debugmenu" in console for it to work.
 
+Run without EAC or this MOD won't work.
+
 # How to use Prefab functions:
 Z – Place a section box, Use again to define the size. (Defining 2 opposing corners)
 
