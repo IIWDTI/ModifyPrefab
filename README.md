@@ -2,10 +2,10 @@
 Brings back some of the Prefab Editor functions to 7 Days to die v1.0
 (Select and fill with specific block, density....)
 
-#How to use the MOD:
+# How to use the MOD:
 Simply place the folder from the archive in the Mods folder and run the game, depending on which mode of Prefab Editor you wanna use create or delete the "funkymode.txt" file.
 
-#How to use Prefab functions
+# How to use Prefab functions
 Z – Place a section box, Use again to define the size. (Defining 2 opposing corners)
 SHIFT + Z - Place underground
 U – Creative Menu , You can get all your blocks here.
