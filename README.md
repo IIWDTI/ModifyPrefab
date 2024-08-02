@@ -2,6 +2,8 @@
 Brings back some of the Prefab Editor functions to 7 Days to die v1.0
 (Select and fill with specific block, density....)
 
+This MOD works by tricking the game into believing its running in prefab editor.
+
 # How to use the MOD:
 Simply place the folder from the archive in the Mods folder and run the game, depending on which mode of Prefab Editor you wanna use create or delete the "funkymode.txt" file.
 (If the funkymode.txt is there, the graphics looks "funky", and if the funkymode.txt is deleted the game remains normal, it is unknown what differences there is other then this)
