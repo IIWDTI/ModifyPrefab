@@ -10,6 +10,8 @@ This MOD works by tricking the game into believing its running in prefab editor.
 Simply place the folder from the archive in the Mods folder and run the game, depending on which mode of Prefab Editor you wanna use create or delete the "funkymode.txt" file.
 (If the funkymode.txt is there, the graphics looks "funky", and if the funkymode.txt is deleted the game remains normal, it is unknown what differences there is other then this)
 
+It only need to be installed on the client!
+
 Remember to enable "debugmenu" in console for it to work.
 
 Run without EAC or this MOD won't work.
